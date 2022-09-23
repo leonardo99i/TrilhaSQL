@@ -1,4 +1,4 @@
-<h1>SQL -> Operadores Condcionais</h1>
+<h1>Operadores Condcionais SQL</h1>
 <h2>OR:</h2>
 
 - Se uma das expressões for verdadeira a expressão completa será verdadeira.
